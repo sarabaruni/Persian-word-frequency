@@ -9,6 +9,8 @@ a_file = open("dataset/frequency_log_set.pkl", "rb")
 
 freq = pickle.load(a_file)
 def frequency(word):
+    """Get the frequency of word's root
+    """
     try:
         try:
             return freq[word]
