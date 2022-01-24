@@ -1,6 +1,6 @@
 # Persian-word-frequency
 calculate the frequency of each word in Persian language.
-I used 1M of hmblog dataset words to calculate the frequency of each word.
+Using hmblog dataset (The first 1M words).
 # Steps:
 1. getting the root of each word
 2. repeated roots was merged by adding the frequency of them
