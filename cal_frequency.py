@@ -4,9 +4,8 @@ import numpy as np
 my_stemmer = FindStems()
 
 
-my_d = open('/content/top1m.txt')
 def load_data():
-    return open('/content/top1m.txt')
+    return open('dataset/top1m.txt')
 
 def data_generator():
     """Define a datagenerator 
