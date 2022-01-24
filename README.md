@@ -1,5 +1,5 @@
 # Persian-word-frequency
-count the frequency of word in Persian language.
+calculate the frequency of each word in Persian language.
 I used 1M of hmblog dataset words to calculate the frequency of each word.
 # Steps:
 1. getting the root of each word
